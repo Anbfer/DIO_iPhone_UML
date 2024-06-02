@@ -1,5 +1,5 @@
 # DIO_iPhone_UML
-Modelagem e Diagramação de um Componente iPhone
+Modelagem e diagramação da representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 #### Funcionalidades
 1. **Reprodutor Musical**
